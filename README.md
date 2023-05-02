@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+a+mi+perfil;Soy+El+Chema+:%29)](https://git.io/typing-svg) 
 
-<a href="https://github.com/GyutaroNv"><img src="https://github.com/GyutaroNc.png" width="250" height="250" alt="GyutaroNc"/></a>
+<a href="https://github.com/ElChema-Nc"><img src="https://github.com/GyutaroNc.png" width="250" height="250" alt="ElChema-Nc"/></a>
 
 
 ###### ✨ Mi nombre es Jose 😆
