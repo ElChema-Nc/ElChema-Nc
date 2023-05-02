@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+a+mi+perfil;Soy+El+Chema+:%29)](https://git.io/typing-svg) 
 
-<a href="https://github.com/ElChema-Nc"><img src="https://github.com/GyutaroNc.png" width="250" height="250" alt="ElChema-Nc"/></a>
+<a href="https://github.com/ElChema-Nc"><img src="https://github.com/ElChema-Nc.png" width="250" height="250" alt="ElChema-Nc"/></a>
 
 
 ###### ✨ Mi nombre es Jose 😆
@@ -39,10 +39,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ## 📊 Estadísticas
-![github stats](https://github-readme-stats.vercel.app/api?username=GyutaroNc&show_icons=true&theme=chartreuse-dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=ElChema-Nc&show_icons=true&theme=chartreuse-dark)
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GyutaroNc&theme=gotham)
-<a href="https://github.com/GyutaroNc"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GyutaroNc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ElChema-Nc&theme=gotham)
+<a href="https://github.com/ElChema-Nc"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElChema-Nc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
