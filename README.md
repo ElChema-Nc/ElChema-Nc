@@ -41,8 +41,6 @@
 ## 📊 Estadísticas
 ![github stats](https://github-readme-stats.vercel.app/api?username=ElChema-Nc&show_icons=true&theme=chartreuse-dark)
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ElChema-Nc&theme=gotham)
-<a href="https://github.com/ElChema-Nc"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElChema-Nc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-</p>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
